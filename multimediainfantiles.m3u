@@ -1,0 +1,80 @@
+#EXTINF:-1 tvg-id="BABY FIRST *HQ" tvg-name="BABY FIRST *FHD" tvg-logo="https://i.pinimg.com/originals/14/7f/ea/147fea6d4dea41d7f81f797799ce70ad.jpg" group-title="INFANTILES",BABY FIRST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27595.m3u8
+#EXTINF:-1 tvg-id="BABY FIRST *HQ" tvg-name="BABY FIRST *HQ" tvg-logo="https://i.pinimg.com/originals/14/7f/ea/147fea6d4dea41d7f81f797799ce70ad.jpg" group-title="INFANTILES",BABY FIRST *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1069.m3u8
+#EXTINF:-1 tvg-id="BABY TV *FHD" tvg-name="BABY TV *FHD" tvg-logo="https://image.roku.com/developer_channels/prod/b7d0b9b328686c9b8a7448a0def076bf7cd556a477b74c0777381f1e998b546e.png" group-title="INFANTILES",BABY TV *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1055.m3u8
+#EXTINF:-1 tvg-id="BABY TV *HD" tvg-name="BABY TV *HD" tvg-logo="https://image.roku.com/developer_channels/prod/b7d0b9b328686c9b8a7448a0def076bf7cd556a477b74c0777381f1e998b546e.png" group-title="INFANTILES",BABY TV *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1081.m3u8
+#EXTINF:-1 tvg-id="BABY TV *HQ" tvg-name="BABY TV *HQ" tvg-logo="https://image.roku.com/developer_channels/prod/b7d0b9b328686c9b8a7448a0def076bf7cd556a477b74c0777381f1e998b546e.png" group-title="INFANTILES",BABY TV *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1100.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG *FHD" tvg-name="BOOMERANG *FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="INFANTILES",BOOMERANG *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1054.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG *HD" tvg-name="BOOMERANG *HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="INFANTILES",BOOMERANG *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1080.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG *HQ" tvg-name="BOOMERANG *HQ" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="INFANTILES",BOOMERANG *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1068.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK *FHD" tvg-name="CARTOON NETWORK *FHD" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="INFANTILES",CARTOON NETWORK *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1053.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK *HD" tvg-name="CARTOON NETWORK *HD" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="INFANTILES",CARTOON NETWORK *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1079.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK *FHD" tvg-name="CARTOON NETWORK *HQ" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="INFANTILES",CARTOON NETWORK *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1096.m3u8
+#EXTINF:-1 tvg-id="BR | DISCOVERY KIDS *HD" tvg-name="DISCOVERY KIDS *FHD" tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="INFANTILES",DISCOVERY KIDS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1052.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS *HD" tvg-name="DISCOVERY KIDS *HD" tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="INFANTILES",DISCOVERY KIDS *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1083.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS *HD" tvg-name="DISCOVERY KIDS *HQ" tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="INFANTILES",DISCOVERY KIDS *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1066.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL *FHD" tvg-name="DISNEY CHANNEL *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="INFANTILES",DISNEY CHANNEL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1051.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL *HD" tvg-name="DISNEY CHANNEL *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="INFANTILES",DISNEY CHANNEL *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1078.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL *HQ" tvg-name="DISNEY CHANNEL *HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="INFANTILES",DISNEY CHANNEL *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1065.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR *FHD" tvg-name="DISNEY JR *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="INFANTILES",DISNEY JR *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1050.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR *HD" tvg-name="DISNEY JR *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="INFANTILES",DISNEY JR *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1077.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR *HQ" tvg-name="DISNEY JR *HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="INFANTILES",DISNEY JR *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1064.m3u8
+#EXTINF:-1 tvg-id="DISNEY XD *FHD" tvg-name="DISNEY XD *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgET6P_a7vdo8smEqK7J3R8jq-t56mnrrf71QDgzn8Ytig0bb&s" group-title="INFANTILES",DISNEY XD *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1049.m3u8
+#EXTINF:-1 tvg-id="DISNEY XD *HD" tvg-name="DISNEY XD *HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgET6P_a7vdo8smEqK7J3R8jq-t56mnrrf71QDgzn8Ytig0bb&s" group-title="INFANTILES",DISNEY XD *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1076.m3u8
+#EXTINF:-1 tvg-id="DISNEY XD *HQ" tvg-name="DISNEY XD *HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgET6P_a7vdo8smEqK7J3R8jq-t56mnrrf71QDgzn8Ytig0bb&s" group-title="INFANTILES",DISNEY XD *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1099.m3u8
+#EXTINF:-1 tvg-id="NAT GEO KIDS *FHD" tvg-name="NAT GEO KIDS *FHD" tvg-logo="https://3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s1600/18881845_1689128821389050_7148178865498555867_n.png" group-title="INFANTILES",NAT GEO KIDS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1048.m3u8
+#EXTINF:-1 tvg-id="NAT GEO KIDS *HD" tvg-name="NAT GEO KIDS *HD" tvg-logo="https://3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s1600/18881845_1689128821389050_7148178865498555867_n.png" group-title="INFANTILES",NAT GEO KIDS *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1075.m3u8
+#EXTINF:-1 tvg-id="NAT GEO KIDS *HQ" tvg-name="NAT GEO KIDS *HQ" tvg-logo="https://3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s1600/18881845_1689128821389050_7148178865498555867_n.png" group-title="INFANTILES",NAT GEO KIDS *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1062.m3u8
+#EXTINF:-1 tvg-id="NICK 2 *FHD" tvg-name="NICK 2 *FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="INFANTILES",NICK 2 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1047.m3u8
+#EXTINF:-1 tvg-id="NICK 2 *HD" tvg-name="NICK 2 *HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="INFANTILES",NICK 2 *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1087.m3u8
+#EXTINF:-1 tvg-id="NICK 2 *HQ" tvg-name="NICK 2 *HQ" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="INFANTILES",NICK 2 *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1060.m3u8
+#EXTINF:-1 tvg-id="NICK JR *FHD" tvg-name="NICK JR *FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES",NICK JR *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1046.m3u8
+#EXTINF:-1 tvg-id="NICK JR *HD" tvg-name="NICK JR *HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES",NICK JR *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1073.m3u8
+#EXTINF:-1 tvg-id="NICK JR *HQ" tvg-name="NICK JR *HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTILES",NICK JR *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1059.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON *FHD" tvg-name="NICKELODEON *FHD" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="INFANTILES",NICKELODEON *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1044.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON *HD" tvg-name="NICKELODEON *HD" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="INFANTILES",NICKELODEON *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1074.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON *HQ" tvg-name="NICKELODEON *HQ" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="INFANTILES",NICKELODEON *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1094.m3u8
+#EXTINF:-1 tvg-id="NICKTOONS *HQ" tvg-name="NICKTOONS *HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="INFANTILES",NICKTOONS *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1043.m3u8
+#EXTINF:-1 tvg-id="NICKTOONS *HQ" tvg-name="NICKTOONS *HQ" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="INFANTILES",NICKTOONS *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1058.m3u8
+#EXTINF:-1 tvg-id="TOONCAST *FHD" tvg-name="TOONCAST *FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="INFANTILES",TOONCAST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1041.m3u8
+#EXTINF:-1 tvg-id="TOONCAST *HD" tvg-name="TOONCAST *HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="INFANTILES",TOONCAST *HD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1072.m3u8
+#EXTINF:-1 tvg-id="TOONCAST *HQ" tvg-name="TOONCAST *HQ" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="INFANTILES",TOONCAST *HQ
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/1056.m3u8
